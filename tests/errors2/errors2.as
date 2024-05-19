@@ -1,0 +1,6 @@
+; this file contains possible errors in the second pass
+
+.entry UNDEFINEDLABEL0
+mov 0, UNDEFINEDLABEL1
+LABLE: add @r0  ,  -13
+lea @r1,@r7

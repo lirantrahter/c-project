@@ -1,0 +1,11 @@
+; this file contains various operations with mcros
+
+
+
+
+	
+	mov @r0   , @r1
+	
+
+str: .string "hello :)"
+
